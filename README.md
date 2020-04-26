@@ -1,5 +1,6 @@
 # D-402
 RIT VIRTUAL HACKATHON
+
 Idea: A smart band to fight COVID-19
 The Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.
 You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth. An emergency lockdown during this COVID 19 pandemic serves as a best way to prevent people from getting infected by the deadly corona virus. In addition to everyday steps to prevent COVID-19, keeping space between you and others is one of the best tools. We have to avoid being exposed to this virus and slowing its spread locally and across the country and world. To ensure social distancing and preventing oneself from entering a high-risk zone, we have proposed a solution in the form of a wrist band. This wrist band is specially designed to tackle the spread of Coronavirus disease. 
